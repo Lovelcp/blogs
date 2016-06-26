@@ -1,0 +1,2 @@
+# blogs
+只是用来作为我mac和windows两台电脑的blogs的同步
